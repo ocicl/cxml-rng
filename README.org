@@ -1,0 +1,10 @@
+* cxml-rng
+
+
+
+|---------+-------------------------------------------|
+| source  | git:http://www.lichteblau.com/git/cxml-rng.git   |
+| commit  | {"messa  |
+| systems | cxml-rng |
+|---------+-------------------------------------------|
+
