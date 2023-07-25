@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:http://www.lichteblau.com/git/cxml-rng.git   |
-| commit  | {"messa  |
+| commit  | bdcfeb9  |
 | systems | cxml-rng |
 |---------+-------------------------------------------|
 
